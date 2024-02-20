@@ -1,4 +1,6 @@
-SHOPPING CART:
+<!-- Q1.Create a program for a shopping cart. If the total price 
+is over Rs. 5000, apply a 10% discount; otherwise, log 
+the original price. -->
 <?php
 function calculate Total price($items){
     $totalPrice = 0;
